@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++
 
 ---
- <table>
+
   <tr>
    <td>
   <a href="https://github.com/PedroVian9">
@@ -14,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovian9&layout=compact&langs_count=16&theme=dark"/>
    </td>
    </tr>
-</table>
+
 
 
     
