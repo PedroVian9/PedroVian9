@@ -9,11 +9,11 @@
     
    <td>
   <a href="https://github.com/PedroVian9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovian9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=pedrovian9&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    </td>
 
    <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovian9&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovian9&layout=compact&langs_count=16&theme=dark"/>
    </td>
    
    </tr>
@@ -27,7 +27,10 @@
 
 
   
-  <img align="center" alt="Pedro-++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />         
+  <img align="center" alt="Pedro-++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="center" alt="Pedro-++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /> 
+  <img align="center" alt="Pedro-++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+  <img align="center" alt="Pedro-++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /> 
 </div>
   
   ##
