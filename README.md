@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C++
-
+- pmpviana@gmail.com
 ---
 
  <table>
