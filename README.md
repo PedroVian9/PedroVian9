@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Im currently studying to change my carrear area from QA to Front-end Developer
 - pmpviana@gmail.com
 ---
 
